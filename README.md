@@ -3,7 +3,7 @@
 
 I'm a student at ITMO University and here I post most of my studies and personal projects!
 
-##My skills so far
+## My skills so far
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,jquery,ts,html,css,angular,c,cpp,linux)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=albogatov&hide=c,makefile,assembly&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
