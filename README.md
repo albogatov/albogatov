@@ -4,7 +4,7 @@
   <img src=https://komarev.com/ghpvc/?username=albogatov&color=C70039&label=PROFILE+VIEWS alt=albogatov/> 
 </p>
 
-I'm a student at ITMO University and here I post most of my studies and personal projects!
+
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,js,jquery,ts,angular,html,css,c,cpp,linux)](https://skillicons.dev)
 
